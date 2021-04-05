@@ -19,7 +19,7 @@ npm i
 ~~~
 
 ## Usage
-First open the applications directory in the terminal, run nmp install, and then begin inputting user data by entering ' node .'.  After all user prompts are complete, the README file will be created in the same folder.
+First open the applications directory in the terminal, run nmp install, and then begin inputting user data by entering  ` node . `.  After all user prompts are complete, the README file will be created in the same folder.
 
 ## License 
 This project is licensed under the [License: Unlicense](http://unlicense.org/) license.
