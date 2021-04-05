@@ -26,7 +26,7 @@ function renderLicenseLink(license) {
     return "[License: Zlib](https://opensource.org/licenses/Zlib)"
   }
   else if (license === "Eclipse Public License 1.0"){
-    return "[License: WTFPL](https://opensource.org/licenses/EPL-1.0)"
+    return "[License: EPL-1.0](https://opensource.org/licenses/EPL-1.0)"
   }
   else if (license === "The Artistic License 2.0"){
     return "[License: Artistic-2.0](https://opensource.org/licenses/Artistic-2.0)"

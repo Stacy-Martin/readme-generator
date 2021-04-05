@@ -1,8 +1,8 @@
 # README Generator
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
 
 ## Description
-This command line  application allows users to easily create a README file.  Developers prefer to spend time on code, however the README file is the first file one sees when opening a project.  This app allows developers to quickly create a high quality README and get back to their coding!  
+This command line  application allows users to easily create a README file.  Developers prefer to spend time on code, however the README file is the first file one sees when opening a project.  This app allows developers to quickly create a high quality README and get back to their coding! 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -21,7 +21,7 @@ npm i
 First open the applications directory in the terminal, run nmp install and then begin inputting user data by entering ' node .'.  After all user prompts are complete, the README file will be created in the same folder.
 
 ## License 
-This project is licensed under the [License: Unlicense](http://unlicense.org/) license.
+This project is licensed under the [License: Zlib](https://opensource.org/licenses/Zlib) license.
 
 ## Contributions
 To contribute to this repository, fork it and submit a pull request for review.

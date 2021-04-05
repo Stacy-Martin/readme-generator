@@ -19,7 +19,7 @@ npm i
 ~~~
 
 ## Usage
-First open the applications directory in the terminal, run nmp install and then begin inputting user data by entering ' node .'.  After all user prompts are complete, the README file will be created in the same folder.
+First open the applications directory in the terminal, run nmp install, and then begin inputting user data by entering ' node .'.  After all user prompts are complete, the README file will be created in the same folder.
 
 ## License 
 This project is licensed under the [License: Unlicense](http://unlicense.org/) license.
@@ -36,8 +36,11 @@ To contribute to this repository, fork it and submit a pull request for review.
 
 The following screenshot provides a preview of the README.md file generated:
 
-![](https://raw.githubusercontent.com/Stacy-Martin/weather-dashboard/main/assets/Images/Screen%20Shot%202021-03-28%20at%209.16.46%20PM.png)
+![](https://raw.githubusercontent.com/Stacy-Martin/readme-generator/main/Images%20/Screen%20Shot%202021-04-05%20at%2012.54.16%20PM.png)
+
+Additionally, the content in this README (above the Preview section) was generated with this app!
 
 Check out this video to see the app demo:
+https://drive.google.com/file/d/1-G9_-09h-a5xuaFhQmpHIX-T1Mofrv_t/preview
 
-
+Thanks to my study buddies ;) teacher, and incredible TA (Kat Poulos) for technical assistance - and many others for encouragement! 
