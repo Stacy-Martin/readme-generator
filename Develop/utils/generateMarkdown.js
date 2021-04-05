@@ -1,14 +1,3 @@
-// Licenses:
-// The Unlicense:
-// [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-// The zlib/libpng License
-// [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
-// The Do What the Fuck You Want to Public License
-// [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
-// The Artistic License 2.0
-// [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
-
-
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
@@ -84,14 +73,15 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
-## ${renderLicenseSection(data.license)}
+
+${renderLicenseSection(data.license)}
 
 ## Contributions
 ${data.contributions}
 
 ## Questions
-I am always grateful for feedback! Contact me at ${data.email}. 
-If you have questions feel free to contact me directly or create an issue.  
+I am always grateful for feedback! Contact me at ${data.email}. /n
+If you have questions feel free to contact me directly or create an issue.  /n
 To see more of my work, check out [${data.username}](https://github.com/${data.username}).`
 }
 
