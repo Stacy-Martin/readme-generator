@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// TODO: Create a function that returns a license badge based on which license is passed in. If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "The Unlicense"){
     return "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)"
@@ -18,8 +17,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// TODO: Create a function that returns the license link. If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "The Unlicense"){
     return "[License: Unlicense](http://unlicense.org/)"
@@ -38,8 +36,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// TODO: Create a function that returns the license section of README. If there is no license, return an empty string
 function renderLicenseSection(license) {
   if(license){
     return '[License](#license)';
@@ -48,6 +45,14 @@ function renderLicenseSection(license) {
   }
 }
 
+function renderLicenseSection(license) {
+  if (license === 'none') {
+    return ``;
+  } else {
+    return `## License 
+This project is licensed under the ${renderLicenseLink(license)} license.`
+  }
+}
 
 
 // TODO: Create a function to generate markdown for README
@@ -61,7 +66,7 @@ ${data.description}
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* ${renderLicenseSection(data.license)}
+* [License](#license)
 * [Contributions](#contributions)
 * [Questions](#questions)
 
@@ -85,5 +90,5 @@ ${data.contributions}
 * To see more of my work, check out [${data.username}](https://github.com/${data.username}).`
 }
 
-// exports the function generateMarkdown to be seen by other 
+// exports the function generateMarkdown to be seen by other file
 module.exports = generateMarkdown;
