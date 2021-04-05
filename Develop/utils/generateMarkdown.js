@@ -61,7 +61,7 @@ ${data.description}
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-${renderLicenseSection(data.license)}
+* ${renderLicenseSection(data.license)}
 * [Contributions](#contributions)
 * [Questions](#questions)
 

@@ -1,8 +1,8 @@
-# Markdown Generator
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+# README Generator
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 ## Description
-Use of node to allow users to input data and generate their README file
+qwertyqwertyqwerty
 
 ## Table of Contents
 * [Installation](#installation)
@@ -18,13 +18,14 @@ npm i
 ~~~
 
 ## Usage
-It is great
-## * [License](#license)
+asdfasdfasdfasdfasdf
+
+[License](#license)
 
 ## Contributions
-Contact me directly or create an issue
+asdfasdfasdfasfdasdfasdf
 
 ## Questions
-I am always grateful for feedback! Contact me at sbrown1031@gmail.com. 
-If you have questions feel free to contact me directly or create an issue.  
-To see more of my work, check out [Stacy Brown-Martin](https://github.com/Stacy Brown-Martin).
+* I am always grateful for feedback! Contact me at sbrown1031@gmail.dcom.
+* If you have questions feel free to contact me directly or create an issue. 
+* To see more of my work, check out [Stacy-Martin](https://github.com/Stacy-Martin).
