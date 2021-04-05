@@ -67,7 +67,7 @@ function writeToFile(fileName, data) {
     fs.writeFileSync(fileName, data)
 }
 
-
+  
 // *************************************************************************************
 
 // TODO: Create a function to initialize app
