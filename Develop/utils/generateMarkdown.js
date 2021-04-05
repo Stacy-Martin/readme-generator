@@ -42,7 +42,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if(license){
-    return '* [License](#license)';
+    return '[License](#license)';
   }else{
     return ""
   }
@@ -80,9 +80,9 @@ ${renderLicenseSection(data.license)}
 ${data.contributions}
 
 ## Questions
-I am always grateful for feedback! Contact me at ${data.email}. /n
-If you have questions feel free to contact me directly or create an issue.  /n
-To see more of my work, check out [${data.username}](https://github.com/${data.username}).`
+* I am always grateful for feedback! Contact me at ${data.email}.
+* If you have questions feel free to contact me directly or create an issue. 
+* To see more of my work, check out [${data.username}](https://github.com/${data.username}).`
 }
 
 // exports the function generateMarkdown to be seen by other 
