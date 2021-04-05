@@ -36,7 +36,7 @@ To contribute to this repository, fork it and submit a pull request for review.
 
 The following screenshot provides a preview of the README.md file generated:
 
-![](https://raw.githubusercontent.com/Stacy-Martin/readme-generator/main/Images%20/Screen%20Shot%202021-04-05%20at%2012.54.16%20PM.png)
+![](https://github.com/Stacy-Martin/readme-generator/blob/main/Images%20/Screen%20Shot%202021-04-05%20at%201.32.22%20PM.png)
 
 Additionally, the content in this README (above the Preview section) was generated with this app!
 
