@@ -1,18 +1,15 @@
 # README Generator
-[![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-qwertyqwertyqwerty
+This command line  application allows users to easily create a README file.  Developers prefer to spend time on code, however the README file is the first file one sees when opening a project.  This app allows developers to quickly create a high quality README and get back to their coding!  
 
 ## Table of Contents
-- [README Generator](#readme-generator)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributions](#contributions)
+* [Questions](#questions)
 
 ## Installation
 Some dependencies are necessary, execute the following command for proper functioning:
@@ -21,13 +18,13 @@ npm i
 ~~~
 
 ## Usage
-asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+First open the applications directory in the terminal, run nmp install and then begin inputting user data by entering ' node .'.  After all user prompts are complete, the README file will be created in the same folder.
 
 ## License 
-This project is licensed under the [License: Artistic-2.0](https://opensource.org/licenses/Artistic-2.0) license.
+This project is licensed under the [License: Unlicense](http://unlicense.org/) license.
 
 ## Contributions
-skdjngjdgfndfigjnb
+To contribute to this repository, fork it and submit a pull request for review.
 
 ## Questions
 * I am always grateful for feedback! Contact me at sbrown1031@gmail.com.
