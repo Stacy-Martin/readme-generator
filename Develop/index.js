@@ -28,7 +28,8 @@ const questions = [
     {
         type: 'input',
         name: 'fileName',
-        message: 'What is your file named?'
+        message: 'What is your file named?',
+        default: 'README.md',
     },
     {
         type: 'input',
